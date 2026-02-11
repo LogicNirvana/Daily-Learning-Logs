@@ -1,0 +1,11 @@
+
+# Daily Log – 2026-02-11
+
+## Topics Learned
+- What an Operating System (OS) is and its role
+- The Kernel: core part of the OS that manages hardware
+- Difference between OS and Kernel
+- User Space vs Kernel Space in Linux
+  - User space: where normal programs run; cannot access hardware directly
+  - Kernel space: core OS; full access to hardware; manages memory and processes
+
